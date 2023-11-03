@@ -1,0 +1,1 @@
+This is the test file, to check connection between WorkStation - StagingArea - LocalRepo - RemoteRepo
